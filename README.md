@@ -18,10 +18,6 @@ I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM 
 
 <br/>
 <br/>
-<!--
-**narayanrachit/narayanrachit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### A little about me: 
 
 - 🔭 I’m currently working on a Gaming Platform
 - 🌱 I’m currently learning React and Nodejs
@@ -41,7 +37,8 @@ I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-
+<br/>
+<br/>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
