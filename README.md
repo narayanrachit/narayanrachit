@@ -19,6 +19,8 @@ I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM 
 <br/>
 <br/>
 
+### More about me: 
+
 - 🔭 I’m currently working on a Gaming Platform
 - 🌱 I’m currently learning React and Nodejs
 - 👯 I’m looking to collaborate on Web Development Projects
