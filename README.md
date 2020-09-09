@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=narayanrachit&style=plastic)
 
-I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology, Kattankulatur</b></a>. <br>
+I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology, Kattankulatur</b></a>. Keen to learn new and evolving technologies everyday. Always trying to come up with better and easy solution due to my laziness :-p<br>
 
 ### Connect with me on:
 
