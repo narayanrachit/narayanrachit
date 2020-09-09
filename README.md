@@ -27,7 +27,7 @@ I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM 
 - 🤔 I’m looking for help with Competitve Programming and React
 - 💬 Ask me anything about Movies/Series 
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rachit-narayan/)
-- ⚡ Fun fact: I will be either Watching a Movie or Working on Laptop
+- ⚡ Fun fact: I will be either watching a movie or working
 
 ### Languages and Tools
 
