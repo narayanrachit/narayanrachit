@@ -7,13 +7,13 @@ I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM 
 ### Connect with me on:
 
 <a href="https://www.linkedin.com/in/rachit-narayan/">
-  <img align="left" alt="Rachit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rachit's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/narayanrachit">
-  <img align="left" alt="Ravindra's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ravindra's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/narayanrachit/">
-  <img align="left" alt="Ravindra's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ravindra's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
